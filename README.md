@@ -40,10 +40,4 @@ Line 3 & 4: Whatever you like
 The default kit is: testkit.
 You can add kits editing kits.yml (see "Kit settings").
 
-**Kit Settings:**
-
-In order to add kit you will need to edit the config kits.yml .
-If you open that file with bloc notes, you will be not able to edit because it will be all in one line, so open it with WordPad, Notepad ++, ...
-You can add lots of kits, but remember to keep this file format:
-
 ```
