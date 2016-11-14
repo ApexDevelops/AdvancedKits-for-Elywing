@@ -2,6 +2,7 @@ AdvancedKits for Elywing
 ============
 
 PocketMine-MP plugin that adds kits to your PocketMine server. Report bugs and errors to https://github.com/MagicPandaDev/AdvancedKits/issues
+Download plugin here: https://github.com/MagicPandaDev/AdvancedKits-for-Elywing/releases/tag/Elywing
 
 This is a simple yet useful PocketMine-MP kit plugin. For who doesn't know what kits are, they are groups of items that you can get simply by typing a command or touching a sign.
 
